@@ -6,10 +6,29 @@ body {
 .preface {
     font-size: 14pt;
     text-align: center;
-    text-indent: 50px;
     padding-top: 20pt;
     padding-bottom: 20pt;
 }
 #carousel_promo {
-    
+
+}
+.promoInfo_thumbnail {
+    text-align: center;
+}
+.promoInfo_caption_thumbnail {
+    padding-top: 10pt;
+    padding-bottom: 10pt;
+    padding-left: 45pt;
+    padding-right: 45pt;
+    font-size: 14pt;
+    text-align: center;
+}
+#pharmacyThumbnailRow {
+
+}
+.imgPharmacyThumbnail {
+    padding-top: 10pt;
+}
+#btnOrder {
+    text-align: center;
 }
