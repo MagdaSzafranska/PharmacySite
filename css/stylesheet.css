@@ -3,7 +3,7 @@ body {
     padding-left: 100pt;
     padding-right: 100pt;
 }
-#preface {
+.preface {
     font-size: 14pt;
     text-align: center;
     text-indent: 50px;
