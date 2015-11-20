@@ -1,2 +1,3 @@
-# Project1
-My first repo basic Git!
+# Page of pharmacy over Lublin
+My first repo basic Git! It's repo of AptekaPage. Other than primary information about pharmacy, I am going to create form to send order or feedback on e-mail address.
+In the future I'm going to do possibility order assortments online with personal pick up in the pharmacy. 
